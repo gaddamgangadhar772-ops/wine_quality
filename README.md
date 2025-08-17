@@ -1,6 +1,8 @@
 
 # 🍷 Wine Quality Prediction Website
 
+![image alt](https://github.com/gaddamgangadhar772-ops/wine_quality/blob/689b10b00c4f5ee26377b6c001859eef23cafed4/wine_quality%20output.png)
+
 Two ways to run:
 - **Streamlit app** (`app_streamlit.py`) — quickest way to get a website.
 - **Flask app** (`app_flask.py` + `templates/index.html`) — classic website stack.
